@@ -57,6 +57,12 @@
          "id":21,
          "name":"ZuObergeschoss",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"..\/WirHabenLust\/obergeschoss.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
