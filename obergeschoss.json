@@ -252,7 +252,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"Tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -1018,7 +1018,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"Forest.png",
+         "image":"Tilesets\/Forest.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1031,7 +1031,7 @@
         {
          "columns":12,
          "firstgid":577,
-         "image":"HousePlants.png",
+         "image":"Tilesets\/HousePlants.png",
          "imageheight":320,
          "imagewidth":384,
          "margin":0,
@@ -1270,7 +1270,7 @@
         {
          "columns":16,
          "firstgid":697,
-         "image":"Modern_2.png",
+         "image":"Tilesets\/Modern_2.png",
          "imageheight":576,
          "imagewidth":512,
          "margin":0,
@@ -12683,7 +12683,7 @@
         {
          "columns":16,
          "firstgid":2235,
-         "image":"Schlafzimmer.png",
+         "image":"Tilesets\/Schlafzimmer.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -12841,7 +12841,7 @@
         {
          "columns":13,
          "firstgid":2491,
-         "image":"Pflanzen+T\u00f6pfe.png",
+         "image":"Tilesets\/Pflanzen+T\u00f6pfe.png",
          "imageheight":288,
          "imagewidth":416,
          "margin":0,
@@ -13336,7 +13336,7 @@
         {
          "columns":3,
          "firstgid":2864,
-         "image":"Glasfenster.png",
+         "image":"Tilesets\/Glasfenster.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -13377,7 +13377,7 @@
         {
          "columns":12,
          "firstgid":2873,
-         "image":"Campfire.png",
+         "image":"Tilesets\/Campfire.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -13390,7 +13390,7 @@
         {
          "columns":26,
          "firstgid":2969,
-         "image":"Mauer.png",
+         "image":"Tilesets\/Mauer.png",
          "imageheight":800,
          "imagewidth":840,
          "margin":0,
