@@ -169,6 +169,38 @@
         }, 
         {
          "draworder":"topdown",
+         "id":34,
+         "name":"Gruppe Antidiskrimierung",
+         "objects":[
+                {
+                 "height":29.5,
+                 "id":14,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "fontfamily":"Microsoft Uighur",
+                     "pixelsize":20,
+                     "text":"ANTIDISKRIMIERUNG",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":153,
+                 "x":1226.92424242424,
+                 "y":157.80303030303
+                }],
+         "offsetx":-58.5,
+         "offsety":36.5,
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":33,
          "name":"Gruppe Mitgliederbetreuung",
          "objects":[
@@ -188,7 +220,7 @@
                  "type":"",
                  "visible":true,
                  "width":187.5,
-                 "x":1271.66666666667,
+                 "x":1265.66666666667,
                  "y":430.833333333333
                 }],
          "offsetx":-58.5,
@@ -220,7 +252,7 @@
                  "type":"",
                  "visible":true,
                  "width":93.5,
-                 "x":1282.16666666667,
+                 "x":1289.16666666667,
                  "y":856.5
                 }],
          "offsetx":-58.5,
@@ -252,8 +284,8 @@
                  "type":"",
                  "visible":true,
                  "width":136,
-                 "x":647.666666666666,
-                 "y":273.5
+                 "x":669.666666666666,
+                 "y":280.5
                 }],
          "offsetx":-58.5,
          "offsety":36.5,
@@ -316,7 +348,7 @@
                  "type":"",
                  "visible":true,
                  "width":93.5,
-                 "x":418.333333333333,
+                 "x":431.333333333333,
                  "y":243.5
                 }],
          "offsetx":-58.5,
@@ -426,8 +458,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":34,
- "nextobjectid":14,
+ "nextlayerid":35,
+ "nextobjectid":15,
  "orientation":"orthogonal",
  "properties":[
         {
