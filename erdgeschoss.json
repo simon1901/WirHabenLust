@@ -107,7 +107,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"https:\/\/simon1901.github.io\/WirHabenLust\/audio\/toilet.mp3"
                 }],
