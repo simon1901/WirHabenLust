@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"VonGarten"
+                 "value":"..\/WirHabenLust\/erdgeschoss.json#VonGarten"
                 }],
          "type":"tilelayer",
          "visible":true,
