@@ -35,6 +35,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitisTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"WirHabenLust_Meeting2"
@@ -56,6 +61,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"WirHabenLust_Meeting1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
