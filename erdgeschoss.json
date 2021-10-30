@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"..\/WirHabenLust\/Garten.json"
                 }],
          "type":"tilelayer",
          "visible":true,
